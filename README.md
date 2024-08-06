@@ -9,7 +9,7 @@ Convenient folder to .osk conversion script to test skins in osu!lazer. :3
 ❯ cd ~/path/to/directory/Skins
 
 ~/path/to/directory/Skins
-❯ python osu_skin_packager.py
+❯ python osk-archiver.py
 ```
 3. Select one or more skin folders by entering their numbers (separated by commas, e.g. 1,2,3...).
 4. Select a destination folder.
