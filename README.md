@@ -2,7 +2,7 @@
 Convenient folder to .osk conversion script to test skins in osu!lazer. :3
 
 ## Usage
-1. Download the [script](https://github.com/PopCat19/osk-exporter/releases) and put it in the directory containing the skin folders. (e.g. Skins)
+1. Download the [script](https://github.com/PopCat19/osk-exporter/blob/main/osk-exporter.py) and put it in the directory containing the skin folders. (e.g. Skins)
 2. Open terminal, change to that directory and run the script with python: 
 ```
 ~
